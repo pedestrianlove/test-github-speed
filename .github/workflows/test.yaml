@@ -17,4 +17,4 @@ jobs:
 
       - name: Run speedtest and save results
         run: |
-          speedtest --accept-license --accept-gdpr
+          speedtest
